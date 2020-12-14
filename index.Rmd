@@ -1,6 +1,8 @@
 ---
 title: "alexriveracruz4's website"
-output: html_document
+output:
+  html_document:
+    theme: spacelab
 ---
 
 ## About
