@@ -3,26 +3,22 @@ title: "alexriveracruz4's website"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## About
 
-## R Markdown
+Bachiller destacado de Ingeniería Industrial (10mo superior), Micromaster en Supply Chain Management desarrollado en MITx. Experiencia de 3 años en el sector Retail en el área de Supply Chain. Dominio intermedio del idioma inglés. Dominio avanzado del Excel. Conocimientos de Inventory Management y Demand Planning. 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Interests
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+* Data Science
+* Health
+* Music
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
+## Profiles 
 
-You can also embed plots, for example:
+* [LinkedIn](https://www.linkedin.com/in/alex-rivera-cruz-95a22592/)
+* [GitHub](https://github.com/alexriveracruz4)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Contact
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* [alexriveracruz4@gmail.com](mailto:alexriveracruz4@gmail.com)
