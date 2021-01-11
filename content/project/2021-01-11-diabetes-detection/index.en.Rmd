@@ -1,0 +1,20 @@
+---
+title: Diabetes Detection
+author: Alex Rivera Cruz
+date: '2021-01-11'
+slug: diabetes-detection
+categories:
+  - Data Analysis
+tags:
+  - R
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-11T21:42:19Z'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---

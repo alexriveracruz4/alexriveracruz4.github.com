@@ -1,0 +1,22 @@
+---
+title: "Welcome"
+author: "Alex Rivera Cruz"
+date: 2021-01-11
+categories: ["R"]
+tags: ["Welcome"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Welcome
+
+I'm Alex Rivera, I've recently completed the Chromebook Data Science Course set on Leanpub.
+
+I'm interested in working with data and answering interesting questions.
+
+
+
+
+
